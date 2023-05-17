@@ -8,7 +8,7 @@ A metodologia de trabalho adotada foi a ágil com o uso da ferramenta trello. As
 
 Organização de tarefas no Kanban usando o Scrum: Caio
 Elaboração e coleda de dados para pesquisa: Fernandes
-Análise base de dados no excel: Jéssica Pereira
+Análise base de dados no excel: Pereira
 Construção de dashboard no PowerBI: Santos
 
 O link do Trello para consulta da divisão das tarefas está disponível em: #Trello
